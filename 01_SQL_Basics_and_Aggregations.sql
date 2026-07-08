@@ -1,4 +1,21 @@
+/*
+==========================================================
+Practice Day 01 - SQL Basics & Aggregations
+==========================================================
 
+Topics Covered:
+✔️ SELECT
+✔️ WHERE
+✔️ LIKE
+✔️ ORDER BY
+✔️ DISTINCT
+✔️ GROUP BY
+✔️ COUNT()
+✔️ AVG()
+✔️ MAX()
+
+Database Used: Employees
+*/
 
 --1) How do you select all columns from the Employees table?
 select * from Employees
