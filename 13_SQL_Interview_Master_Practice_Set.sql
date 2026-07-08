@@ -1,4 +1,28 @@
 
+/*
+==========================================================
+Practice Day 13 - SQL Interview Master Practice Set
+==========================================================
+
+Topics Covered:
+✔️ Aggregate Functions
+✔️ GROUP BY & HAVING
+✔️ Correlated Subqueries
+✔️ Common Table Expressions (CTEs)
+✔️ DENSE_RANK()
+✔️ Self Joins
+✔️ Manager-Employee Hierarchy
+✔️ TOP WITH TIES
+✔️ Business Case-Based SQL Problems
+✔️ Department-Level Analysis
+✔️ Ranking Problems
+
+Database Used:
+- Employees
+- Departments
+- Employees_2
+*/
+
 select * from Employees
 
 select * from Departments
