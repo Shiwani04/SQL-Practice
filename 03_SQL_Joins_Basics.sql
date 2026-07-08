@@ -1,4 +1,21 @@
+/*
+==========================================================
+Practice Day 03 - SQL Joins (Basics)
+==========================================================
 
+Topics Covered:
+✔️ INNER JOIN
+✔️ LEFT JOIN
+✔️ RIGHT JOIN
+✔️ COUNT()
+✔️ GROUP BY
+✔️ DISTINCT
+
+Database Used:
+- Customers
+- Orders
+- Products
+*/
 
 select * from Customers
 
