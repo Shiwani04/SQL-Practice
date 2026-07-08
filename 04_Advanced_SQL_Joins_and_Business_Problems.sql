@@ -1,4 +1,23 @@
+/*
+==========================================================
+Practice Day 04 - Advanced SQL Joins & Business Problems
+==========================================================
 
+Topics Covered:
+✔️ INNER JOIN
+✔️ RIGHT JOIN
+✔️ SELF JOIN
+✔️ GROUP BY
+✔️ HAVING
+✔️ DENSE_RANK()
+✔️ Aggregate Functions
+✔️ Business Case-Based SQL Problems
+
+Database Used:
+- Customers
+- Orders
+- Products
+*/
 
 select * from Customers
 
