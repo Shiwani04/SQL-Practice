@@ -1,4 +1,20 @@
+/*
+==========================================================
+Practice Day 05 - SQL Aggregations & Date Functions
+==========================================================
 
+Topics Covered:
+✔️ SUM()
+✔️ COUNT()
+✔️ AVG()
+✔️ GROUP BY
+✔️ HAVING
+✔️ MONTH()
+✔️ YEAR()
+
+Database Used:
+- EmployeeSales
+*/
 
 select * from EmployeeSales
 
