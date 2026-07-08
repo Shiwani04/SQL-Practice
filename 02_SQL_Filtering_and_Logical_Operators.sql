@@ -1,3 +1,21 @@
+/*
+==========================================================
+Practice Day 02 - SQL Filtering & Logical Operators
+==========================================================
+
+Topics Covered:
+✔️ WHERE
+✔️ AND
+✔️ OR
+✔️ NOT
+✔️ IN
+✔️ BETWEEN
+✔️ LIKE
+✔️ Combining Multiple Conditions
+
+Database Used: Employees
+*/
+
 select * from Employees
 
 --1. How do you select employees who work in the 'IT' department and have a salary greater than 75,000?
